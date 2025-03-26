@@ -1,0 +1,4 @@
+const numbers = [1, 2, 3, 4, 5];
+const squarenum = numbers.map(num => num * num);
+console.log("The value:"+numbers)
+console.log("New Array:"+squarenum); 

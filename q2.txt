@@ -1,0 +1,10 @@
+const person = {
+    name: "Usha",
+    age: 20,
+    address: "12 th, Main Street Tiruppur,india"
+};
+const { name, age} = person;
+
+
+console.log(name);    
+console.log(age);     

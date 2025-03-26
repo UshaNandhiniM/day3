@@ -1,0 +1,6 @@
+var fruit=[apple, banana, grape, mango]
+var vegetable=[carrot, beans, potato, tomato]
+
+var spread=[...fruit,...vegetable]
+
+console.log(spread)
